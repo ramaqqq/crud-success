@@ -1,0 +1,353 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "role": "ADMIN",
+      "password": "edi"
+    },
+    {
+      "id": 2,
+      "username": "superadmin",
+      "email": "superadmin@gmail.com",
+      "role": "SUPERADMIN",
+      "password": "edi"
+    },
+    {
+      "id": 3,
+      "username": "user",
+      "email": "In xxx-mmm-nnn",
+      "role": "USER",
+      "password": "edi"
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "edi",
+      "id": 7,
+      "name": "jghjgjh",
+      "username": "jhgjhgjk"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "edi",
+      "id": 8
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "edi",
+      "id": 9
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "edi",
+      "id": 12
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "edi",
+      "id": 14
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 15
+    },
+    {
+      "email": "superadmin@gmail.com",
+      "password": "edi",
+      "id": 16
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 17
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "edi",
+      "id": 18
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 19
+    },
+    {
+      "email": "ADMIN",
+      "password": "edi",
+      "id": 20
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 21
+    },
+    {
+      "email": "ADMIN",
+      "password": "edi",
+      "id": 22
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "edi",
+      "id": 23
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 24
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 25
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 26
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 27
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 28
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 29
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 30
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "edi",
+      "id": 31
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 32
+    },
+    {
+      "email": "superadmin@gmail.com",
+      "password": "edi",
+      "id": 33
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 34
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "edi",
+      "id": 35
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 36
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 37
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "edi",
+      "id": 38
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 39
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 40
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 41
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 42
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 43
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 44
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 45
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 46
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 47
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 48
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 49
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 50
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 51
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 52
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 53
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 54
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "edi",
+      "id": 55
+    },
+    {
+      "email": "admin@gmail.com",
+      "role": "ADMIN",
+      "password": "edi",
+      "id": 56
+    },
+    {
+      "email": "admin@gmail.com",
+      "role": "ADMIN",
+      "password": "edi",
+      "id": 57
+    },
+    {
+      "email": "admin@gmail.com",
+      "role": "ADMIN",
+      "password": "edi",
+      "id": 58
+    },
+    {
+      "email": "",
+      "role": "",
+      "password": "",
+      "id": 59
+    },
+    {
+      "email": "",
+      "role": "",
+      "password": "",
+      "id": 60
+    },
+    {
+      "email": "",
+      "role": "",
+      "password": "",
+      "id": 61
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 62
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 63
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 64
+    },
+    {
+      "email": "azilkhaq10@gmail.com",
+      "password": "12345678",
+      "id": 65
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 66
+    },
+    {
+      "email": "azilkhaq10@gmail.com",
+      "password": "12345678",
+      "id": 67
+    }
+  ]
+}
